@@ -1,0 +1,5 @@
+com\upc\empleadoapi\EmpleadoApiApplication.class
+com\upc\empleadoapi\controller\EmpleadoController.class
+com\upc\empleadoapi\service\EmpleadoService.class
+com\upc\empleadoapi\repository\EmpleadoRepository.class
+com\upc\empleadoapi\model\Empleado.class
